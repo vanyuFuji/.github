@@ -1,8 +1,4 @@
-# Intro Page
+VanyFuji Repositories
 
 - supports mark down
 - supports images
-
-#### how to edit?
-go to `@vanyufuji/.github` and edit the `profile/README.md` file with markdown
-
