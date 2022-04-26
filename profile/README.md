@@ -9,3 +9,7 @@
 #### D&C Toy Capsule
 - [API](https://github.com/vanyuFuji/toycapsules_frontendbackend.api)
 - [Backend UI](https://github.com/vanyuFuji/toycapsules.backend.ui)
+
+#### Toshiba Octopus Report
+- [API](https://github.com/vanyuFuji/Toshiba.Octopus-Report)
+- [Backend UI](https://github.com/vanyuFuji/toshiba.octopus-report.ui)
