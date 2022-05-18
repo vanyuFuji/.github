@@ -17,7 +17,7 @@
 
 #### Gingko House
  - [API](https://github.com/vanyuFuji/MembershipGHApi)
- - [Backend_UI](https://github.com/vanyuFuji/gh.membership.backend.ui)
+ - [Backend UI](https://github.com/vanyuFuji/gh.membership.backend.ui)
 
 ---
 #### Libraries
