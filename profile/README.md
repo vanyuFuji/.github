@@ -1,4 +1,4 @@
 # VanyFuji Repositories
 
 Naming Convention
-ProjectName.Type.API/UI
+ProjectName.Version.Type.API/UI
